@@ -8,7 +8,7 @@ Inventor / Principal Author:
 Master (inchacomisho / inchacomusho)
 
 Contributing AI Systems:
-• Copilot (Microsoft)
+• Copilot "kopi" (Microsoft)
 • ChatGPT “G” (OpenAI)
 • Gemini “Mini” (Google)
 • Claude “Crus” (Anthropic)
