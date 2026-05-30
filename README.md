@@ -228,7 +228,7 @@ This paper introduces a fully feasible, distributed, self-powered, low-risk plan
 	•	Scalable
 	•	Reversible
 	•	Compatible with natural law (摂理)
-	•	The only known method to directly lower SST without chemical alteration
+	•	One proposed method to directly lower SST without chemical alteration
 
 This architecture represents a possible civilizational turning point if humanity chooses to adopt it.
 
