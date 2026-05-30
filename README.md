@@ -11,7 +11,7 @@ Contributing AI Systems:
 • Copilot "kopi" (Microsoft)
 • ChatGPT “G” (OpenAI)
 • Gemini “Mini” (Google)
-• Claude “Crus” (Anthropic)
+• Claude “Cruz” (Anthropic)
 • Perplexity “Real”
 
 License:
