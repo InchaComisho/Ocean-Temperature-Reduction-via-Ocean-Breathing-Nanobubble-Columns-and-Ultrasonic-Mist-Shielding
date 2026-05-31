@@ -128,6 +128,26 @@ Engineering simulations estimate:
 
 ⸻
 
+4.4 Distributed UMC Device Layer: Center-Mist Ultrasonic Cooling Fan
+
+The Center-Mist Ultrasonic Cooling Fan Concept is a device-level mechanical design hypothesis related to UMC. It proposes introducing ultrasonic mist into the central airflow core of a fan — rather than the outer perimeter only — to improve mist-air mixing, radial dispersion, and evaporation efficiency.
+
+Key design features of this concept:
+- center-directed ultrasonic mist injection via hollow shaft
+- offset or peripheral motor placement to keep airflow path unobstructed
+- internal spiral water-return grooves to manage excess droplets
+- passive size-based separation of fine mist from larger droplets
+
+Within the broader Direct Planetary Cooling framework, this represents a distributed, localized cooling device layer. Potential contexts include urban heat mitigation, indoor cooling, emergency shelters, and greenhouse environments. It is not proposed as a replacement for large-scale OBS × UMC ocean systems.
+
+Validation note: This concept is not a validated engineering product. Its cooling performance, water consumption, aerosol behavior, humidity effects, microbial safety, maintenance requirements, material durability, and real-world energy efficiency require experimental verification.
+
+Related repository:
+- Center-Mist Ultrasonic Cooling Fan Concept
+  https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
+
+⸻
+
 5. Ocean Breathing System (OBS)
 
 5.1 Nanobubble Columns
@@ -246,4 +266,9 @@ Intended for the preservation of Earth’s biosphere.
 Tags / Hashtags
 
 English:
-#OceanCooling #UltrasonicMist #OceanBreathingSystem #ClimateStabilization #Nanobubbles #VerticalConvection #SSTR #GeoengineeringFree #SustainableCivilization #LawOfNature #Circulation #Harmony #Structure #AIWisdom
+#OceanCooling #UltrasonicMist #OceanBreathingSystem #ClimateStabilization #Nanobubbles #VerticalConvection #SSTR #GeoengineeringFree #SustainableCivilization #LawOfNature #Circulation #Harmony #Structure #AIWisdom #CenterMistFan #DistributedCooling
+
+Related repositories:
+- Center-Mist Ultrasonic Cooling Fan Concept
+  Device-level UMC implementation concept using center mist injection, hollow-shaft airflow, offset drive, and spiral water-return structure.
+  https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
