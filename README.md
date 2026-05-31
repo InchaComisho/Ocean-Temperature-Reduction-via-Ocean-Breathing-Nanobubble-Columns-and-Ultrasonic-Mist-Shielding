@@ -272,3 +272,15 @@ Related repositories:
 - Center-Mist Ultrasonic Cooling Fan Concept
   Device-level UMC implementation concept using center mist injection, hollow-shaft airflow, offset drive, and spiral water-return structure.
   https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
+
+---
+
+## Narrative Companion
+
+> *This is a speculative fiction work, not a scientific study or engineering specification. CO₂ reduction remains necessary and is not contradicted by this work.*
+
+The ocean heat accumulation and OBS/UMC system described here are dramatised as a possible additional response layer in:
+
+**[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)**
+
+Episodes 4–8 follow the discovery of persistent ocean heat, the limits of decarbonisation, and a speculative first deployment of the nanobubble column system.
