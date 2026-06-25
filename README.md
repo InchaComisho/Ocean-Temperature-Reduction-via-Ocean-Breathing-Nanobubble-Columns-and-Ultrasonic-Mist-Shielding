@@ -303,3 +303,12 @@ Episodes 4–8 follow the discovery of persistent ocean heat, the limits of deca
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
 - [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — Integrated index for Natural Complementary Science and the New Civilizational Genesis Plan.
 - [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — Integrated index for Artificial Wisdom and Wa-Node.
+
+### Global Warming Causal Structure and Cooling Credit
+
+- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
