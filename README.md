@@ -2,6 +2,8 @@
 Earth’s accelerating warming is driven primarily by oceanic heat accumulation: the ocean absorbs over 90% of anthropogenic heat and determines the planet’s climate trajectory. Current mitigation focuses almost exclusively on emission reductions and untested geoengineering. This paper proposes a dual-layer, distributed, self-powered oceanic 
 Ocean Temperature Reduction via Ocean-Breathing Nanobubble Columns and Ultrasonic Mist Shielding
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 A Distributed, Self-Powered Climate Stabilization Architecture
 
 Inventor / Principal Author:
