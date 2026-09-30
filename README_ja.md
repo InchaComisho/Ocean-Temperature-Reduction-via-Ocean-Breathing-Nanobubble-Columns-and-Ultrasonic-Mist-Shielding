@@ -305,7 +305,6 @@ OBS×UMCの実装では、以下を避ける必要があります。
 
 ### 地球温暖化の因果構造とクーリングクレジット
 
-- [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 - [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 - [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
 - [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
