@@ -1,6 +1,6 @@
 # 海洋呼吸ナノバブル柱と超音波ミスト遮蔽による海洋温度低減
 
-> English version: [README.md](./README.md)
+> English version: [README.md](./README_ja.md)
 
 > 本リポジトリは、Ocean Breathing System（OBS：海洋呼吸システム）と Ultrasonic Mist Cooling（UMC：超音波ミスト冷却）を組み合わせた、概念的・理論的な海洋冷却フレームワークを日本語で整理したものです。ここに示す内容は、実証済みの気候制御技術ではありません。実装には、海域別の環境評価、海洋物理・生態系モデル、段階的な実証実験、国際的なガバナンス設計が必要です。
 
