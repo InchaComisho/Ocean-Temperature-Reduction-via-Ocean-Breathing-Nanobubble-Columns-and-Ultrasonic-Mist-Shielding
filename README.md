@@ -1,4 +1,7 @@
 # Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding
+
+[日本語版はこちら / Japanese version](README_ja.md)
+
 Earth’s accelerating warming is driven primarily by oceanic heat accumulation: the ocean absorbs over 90% of anthropogenic heat and determines the planet’s climate trajectory. Current mitigation focuses almost exclusively on emission reductions and untested geoengineering. This paper proposes a dual-layer, distributed, self-powered oceanic 
 Ocean Temperature Reduction via Ocean-Breathing Nanobubble Columns and Ultrasonic Mist Shielding
 
